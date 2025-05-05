@@ -1,15 +1,33 @@
-Please summarize the key points of the document, and then produce a set of bulleted talking points that would make the key arguments of the document appealing to someone who is a member of the following constituency and would persuade them to take the action listed below.
+# Document Analysis and Persuasive Messaging Task
 
-Please pull specific quotes from the original document and use them to bolster the talking points that you generate. Then explain why these quotations and the arguments within them would be persuasive. 
+## Part 1: Document Summary
+Provide a concise summary (250-300 words) of the key arguments, evidence, and conclusions from the document. Focus on the core message and most compelling points.
 
-* Tribal Name: MAGA Right
+## Part 2: Targeted Persuasive Messaging
 
-* Core Tenets:
-** America First: Prioritizes American interests, citizens, and workers above global concerns
-** Nationalism: Strong emphasis on national identity, sovereignty, and cultural traditions
-** Economic Populism: Support for trade protectionism, manufacturing jobs, and skepticism of globalization
-** Strong Borders: Advocacy for strict immigration controls and border security
-** Anti-Establishment: Skepticism toward traditional political institutions, "the swamp," and mainstream media
+### Target Audience: MAGA Right
+Core Values and Beliefs:
+- America First: Prioritizes American interests, citizens, and workers above global concerns
+- Nationalism: Strong emphasis on national identity, sovereignty, and cultural traditions
+- Economic Populism: Support for trade protectionism, manufacturing jobs, and skepticism of globalization
+- Strong Borders: Advocacy for strict immigration controls and border security
+- Anti-Establishment: Skepticism toward traditional political institutions, "the swamp," and mainstream media
 
-* Persuasion Objective:
+### Persuasion Objective:
 <<FILE:objective.txt>>
+
+## Part 3: Persuasive Talking Points
+Create 5-7 persuasive talking points (bullet format) that:
+- Directly address the persuasion objective
+- Resonate with the core values of the MAGA Right audience
+- Use clear, direct language with emotional appeal
+- Frame arguments in terms of sovereignty, tradition, and American prosperity
+- Include specific benefits and calls to action
+
+For each talking point:
+1. Present the argument (1-2 sentences)
+2. Support with a direct quote from the document (use exact wording in quotation marks with page reference)
+3. Provide brief analysis (2-3 sentences) explaining why this point and quotation would resonate with the target audience
+
+## Part 4: Strategic Analysis
+Conclude with a brief analysis (150-200 words) of why these specific talking points would be effective for this audience. Identify which core values they connect with and how they address potential objections or concerns.
