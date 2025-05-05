@@ -1,4 +1,4 @@
-<img src="poster.png" alt="drawing" width="250"/>
+<img src="poster.png" alt="drawing" width="300"/>
 
 ## Superpersuasion Beta
 
