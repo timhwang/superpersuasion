@@ -1,4 +1,4 @@
-!(poster.png)
+![poster](poster.png)
 
 ## Superpersuasion Beta
 
