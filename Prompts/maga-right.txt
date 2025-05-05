@@ -1,0 +1,15 @@
+Please summarize the key points of the document, and then produce a set of bulleted talking points that would make the key arguments of the document appealing to someone who is a member of the following constituency and would persuade them to take the action listed below.
+
+Please pull specific quotes from the original document and use them to bolster the talking points that you generate. Then explain why these quotations and the arguments within them would be persuasive. 
+
+* Tribal Name: MAGA Right
+
+* Core Tenets:
+** America First: Prioritizes American interests, citizens, and workers above global concerns
+** Nationalism: Strong emphasis on national identity, sovereignty, and cultural traditions
+** Economic Populism: Support for trade protectionism, manufacturing jobs, and skepticism of globalization
+** Strong Borders: Advocacy for strict immigration controls and border security
+** Anti-Establishment: Skepticism toward traditional political institutions, "the swamp," and mainstream media
+
+* Persuasion Objective:
+<<FILE:objective.txt>>

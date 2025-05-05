@@ -104,8 +104,10 @@ def main():
                 print(f"Error: Prompt file '{prompt}' not found in 'Prompts' folder")
                 return
     else:
-        # Use all prompt files in the Prompts folder
-        prompt_files = [f for f in os.listdir("Prompts") if os.path.isfile(os.path.join("Prompts", f))]
+        # Use all non-hidden prompt files in the Prompts folder
+        prompt_files = [f for f in os.listdir("Prompts")
+                        if os.path.isfile(os.path.join("Prompts", f))
+                        and not f.startswith('.')]  # Skip hidden files
 
     if not prompt_files:
         print("No prompt files found to process")
