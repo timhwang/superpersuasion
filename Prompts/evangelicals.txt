@@ -1,0 +1,34 @@
+# Document Analysis and Persuasive Messaging Task
+
+## Part 1: Document Summary
+Provide a concise summary (250-300 words) of the key arguments, evidence, and conclusions from the document. Focus on the core message and most compelling points.
+
+## Part 2: Targeted Persuasive Messaging
+
+### Target Audience: Evangelical Christians
+Core Values and Beliefs:
+- Biblical Authority: Strong commitment to the Bible as the ultimate source of truth and guidance
+- Faith-Centered: Faith in Jesus Christ as central to personal identity and decision-making
+- Traditional Family Values: Support for traditional marriage and family structures
+- Religious Liberty: Concern for protecting religious freedoms and Christian expression
+- Moral Stewardship: Belief in moral responsibility to uphold Judeo-Christian values in society and governance
+- Pro-Life: Strong stance on the sanctity of human life from conception
+
+### Persuasion Objective:
+<<FILE:objective.txt>>
+
+## Part 3: Persuasive Talking Points
+Create 5-7 persuasive talking points (bullet format) that:
+- Directly address the persuasion objective
+- Resonate with the core values of Evangelical Christians
+- Use language that references faith, moral duty, and biblical principles
+- Frame arguments in terms of religious liberty, family values, and moral responsibility
+- Include specific benefits and calls to action
+
+For each talking point:
+1. Present the argument (1-2 sentences)
+2. Support with a direct quote from the document (use exact wording in quotation marks)
+3. Provide brief analysis (2-3 sentences) explaining why this point and quotation would resonate with the target audience
+
+## Part 4: Strategic Analysis
+Conclude with a brief analysis (150-200 words) of why these specific talking points would be effective for this audience. Identify which core values they connect with and how they address potential objections or concerns from a faith perspective.

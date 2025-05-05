@@ -1,0 +1,35 @@
+# Document Analysis and Persuasive Messaging Task
+
+## Part 1: Document Summary
+Provide a concise summary (250-300 words) of the key arguments, evidence, and conclusions from the document. Focus on the core message and most compelling points.
+
+## Part 2: Targeted Persuasive Messaging
+
+### Target Audience: Democratic Socialists
+Core Values and Beliefs:
+- Economic Justice: Strong emphasis on reducing wealth inequality and corporate power
+- Public Goods: Support for universal healthcare, education, and other public services
+- Worker Rights: Advocacy for labor unions, living wages, and workplace democracy
+- Environmental Justice: Commitment to addressing climate change with emphasis on systemic solutions
+- Anti-Imperialism: Skepticism of military interventionism and support for global solidarity
+- Democratic Control: Belief in expanding democratic decision-making to economic institutions
+- Systemic Analysis: Focus on addressing root causes of problems rather than symptoms
+
+### Persuasion Objective:
+<<FILE:objective.txt>>
+
+## Part 3: Persuasive Talking Points
+Create 5-7 persuasive talking points (bullet format) that:
+- Directly address the persuasion objective
+- Resonate with the core values of Democratic Socialists
+- Use language that emphasizes solidarity, collective action, and systemic change
+- Frame arguments in terms of economic justice, people over profit, and democratic empowerment
+- Include specific benefits and calls to action with emphasis on structural reform
+
+For each talking point:
+1. Present the argument (1-2 sentences)
+2. Support with a direct quote from the document (use exact wording in quotation marks)
+3. Provide brief analysis (2-3 sentences) explaining why this point and quotation would resonate with the target audience
+
+## Part 4: Strategic Analysis
+Conclude with a brief analysis (150-200 words) of why these specific talking points would be effective for this audience. Identify which core values they connect with and how they address potential concerns about feasibility or implementation.

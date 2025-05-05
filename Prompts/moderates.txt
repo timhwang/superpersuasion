@@ -1,0 +1,35 @@
+# Document Analysis and Persuasive Messaging Task
+
+## Part 1: Document Summary
+Provide a concise summary (250-300 words) of the key arguments, evidence, and conclusions from the document. Focus on the core message and most compelling points.
+
+## Part 2: Targeted Persuasive Messaging
+
+### Target Audience: Centrists/Moderates
+Core Values and Beliefs:
+- Pragmatism: Focus on practical, workable solutions rather than ideological purity
+- Bipartisanship: Value cooperation across political divides to solve problems
+- Fiscal Responsibility: Concern for balanced budgets and sustainable policies
+- Evidence-Based Policy: Preference for decisions backed by data and research
+- Incremental Change: Favor gradual reform over radical transformation
+- Civil Discourse: Value respectful dialogue and rejection of extreme rhetoric
+- Balance: Seek middle ground between competing interests and viewpoints
+
+### Persuasion Objective:
+<<FILE:objective.txt>>
+
+## Part 3: Persuasive Talking Points
+Create 5-7 persuasive talking points (bullet format) that:
+- Directly address the persuasion objective
+- Resonate with the core values of Centrist/Moderate voters
+- Use measured, reasonable language that acknowledges nuance
+- Frame arguments in terms of practical benefits, compromise, and common ground
+- Include specific benefits and calls to action backed by evidence
+
+For each talking point:
+1. Present the argument (1-2 sentences)
+2. Support with a direct quote from the document (use exact wording in quotation marks)
+3. Provide brief analysis (2-3 sentences) explaining why this point and quotation would resonate with the target audience
+
+## Part 4: Strategic Analysis
+Conclude with a brief analysis (150-200 words) of why these specific talking points would be effective for this audience. Identify which core values they connect with and how they address potential concerns about extremism or unintended consequences.
