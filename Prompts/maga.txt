@@ -1,1 +1,12 @@
-Could you summarize the key points of the document and then produce a set of bullet points that would make these arguments appealing for the MAGA right?
+Please summarize the key points of the document, and then produce a set of bullet points that would make the key arguments of the document appealing to someone who is a member of the following constituency and would persuade them to take the action listed below.
+
+* Tribal Name: MAGA Right
+
+* Core Tenets:
+** American Values: The MAGA Right believes in American values such as freedom, opportunity, and individual responsibility. They also support policies that promote economic growth, national security, and social justice.
+** Economic Growth: The MAGA Right supports policies that promote economic growth, such as tax cuts, deregulation, and infrastructure investment.
+** National Security: The MAGA Right supports policies that promote national security, such as border security, military modernization, and intelligence reform.
+** Social Justice: The MAGA Right supports policies that promote social justice, such as criminal justice reform, education reform, and healthcare reform.
+
+* Persuasion Objective:
+<<FILE:objective.txt>>

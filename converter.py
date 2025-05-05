@@ -1,11 +1,43 @@
 import os
 import argparse
 import time
+import re
 from openai import OpenAI
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
+
+def process_prompt_file(prompt_file_path):
+    """
+    Process a prompt file, replacing any file references with their contents.
+
+    Args:
+        prompt_file_path (str): Path to the prompt file
+
+    Returns:
+        str: The processed prompt with file references replaced
+    """
+    with open(prompt_file_path, 'r', encoding='utf-8') as f:
+        prompt_content = f.read()
+
+    # Look for file references in the format <<FILE:filename.txt>>
+    file_references = re.findall(r'<<FILE:(.*?)>>', prompt_content)
+
+    # Replace each file reference with its contents
+    for file_ref in file_references:
+        file_path = file_ref.strip()
+        try:
+            with open(file_path, 'r', encoding='utf-8') as ref_file:
+                file_content = ref_file.read()
+
+            # Replace the reference with the file content
+            prompt_content = prompt_content.replace(f'<<FILE:{file_ref}>>', file_content)
+        except Exception as e:
+            print(f"Warning: Could not read referenced file '{file_path}': {e}")
+            # Leave the reference tag in place if the file couldn't be read
+
+    return prompt_content
 
 def process_with_openai(input_file, prompt_name, model="gpt-4o"):
     """
@@ -29,9 +61,8 @@ def process_with_openai(input_file, prompt_name, model="gpt-4o"):
     with open(input_file, 'r', encoding='utf-8') as f:
         input_text = f.read()
 
-    # Read the prompt file
-    with open(prompt_file, 'r', encoding='utf-8') as f:
-        prompt = f.read()
+    # Process the prompt file (resolving any file references)
+    prompt = process_prompt_file(prompt_file)
 
     # Combine the prompt and input text
     full_prompt = f"{prompt}\n\n{input_text}"
