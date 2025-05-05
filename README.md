@@ -7,4 +7,6 @@ The way you use this script is:
 
 * input.txt defines the white paper to be converted
 * output.txt defines the place to output the response
-* prompt.txt specifies a text file in the Prompts folder that contains the prompt for political conversion.
+* prompt.txt specifies a text file in the Prompts folder that contains the prompt for political conversion. If not defined, it'll iterate through everything in that folder.
+
+The output summary text will appear in "Outputs"
