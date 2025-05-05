@@ -1,4 +1,4 @@
-![poster](poster.png)
+<img src="poster.png" alt="drawing" width="500"/>
 
 ## Superpersuasion Beta
 
