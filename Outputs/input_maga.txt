@@ -1,0 +1,21 @@
+The document is a testimony by the Director of Emerging Technology Policy at the Institute for Progress. It focuses on ensuring the United States remains the global leader in artificial intelligence (AI) by examining lessons from the Chinese AI company DeepSeek and outlining actions the federal government should take regarding research and development (R&D), energy, and talent. The argument emphasizes national security risks posed by open-source AI, the need for proactive policy and technical analysis, leveraging American technological advantages, and advancing robust and secure AI infrastructure.
+
+### Key Arguments for the MAGA Right:
+
+- **National Security First**: Chinese open-source AI models like DeepSeek propose new security risks due to potential backdoors and ideological influences. It's crucial to protect American values and security.
+
+- **Leverage American Tech**: DeepSeek relies on American technologies, providing leverage through export controls to maintain an edge over China in the AI race.
+
+- **Proactive Defense**: The U.S. needs to predict and respond to foreign AI developments proactively, including appointing dedicated teams to analyze threats and capabilities.
+
+- **Strengthen US Infrastructure**: Encourage investments in developing secure AI chips and data centers, essential for defending against espionage and protecting American industries.
+
+- **Promote Open Source Leadership**: Use federal prize competitions to boost the U.S.'s open-source AI ecosystem, ensuring America creates the most reliable and secure AI, maintaining global preference for U.S. models.
+
+- **Focus on Talent**: Strategic recruitment and retention of global scientific talent will ensure that America leads in critical AI and defense technologies, countering China's global recruitment efforts.
+
+- **Energy Independence for AI**: Support AI development by reducing regulatory barriers for energy infrastructure projects needed to power advanced AI systems, embracing an “all of the above” energy strategy.
+
+- **American Values in AI Development**: Leverage private industry innovation for proactive AI model hardening, rather than adopting China's authoritarian surveillance methods, preserving individual freedoms and privacy.
+
+These points underscore a strategy that emphasizes national security, technological supremacy, and robust infrastructure, aligning with the MAGA right's focus on American dominance and security.
